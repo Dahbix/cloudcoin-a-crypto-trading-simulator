@@ -1,5 +1,6 @@
 {
     "name": "CloudCoin-A Crypto Trading Simulator",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
